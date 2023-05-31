@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T07:06:37.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jL_CnB6lA4S9QGr3VhWi" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T07:15:51.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p_xEdy9eHstt4oUYBwdq" version="21.3.6" type="github">
   <diagram name="Page-1" id="n2liNgtz6i9wZgeHhrPj">
     <mxGraphModel dx="1467" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -119,8 +119,22 @@
         <mxCell id="R2Huf-4r1oj2iXr34D1d-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R2Huf-4r1oj2iXr34D1d-24" target="R2Huf-4r1oj2iXr34D1d-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R2Huf-4r1oj2iXr34D1d-77" value="Large" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R2Huf-4r1oj2iXr34D1d-37">
+          <mxGeometry x="-0.3156" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="R2Huf-4r1oj2iXr34D1d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R2Huf-4r1oj2iXr34D1d-24" target="R2Huf-4r1oj2iXr34D1d-26">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2Huf-4r1oj2iXr34D1d-78" value="Small /Medium" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R2Huf-4r1oj2iXr34D1d-39">
+          <mxGeometry x="-0.6263" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="R2Huf-4r1oj2iXr34D1d-24" value="File Size regulator&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=1;strokeWidth=4;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="1000" y="150" width="120" height="120" as="geometry" />
